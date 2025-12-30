@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sunil Paudyal</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/10/82/c5/1082c5228fb6e62ca1332920d867b5c7.gif" alt="Luffy Yo GIF" width="300" />
+<p align="center" style="background-color:#1e1e2f; display:inline-block; padding:20px; border-radius:20px;">
+  <img src="https://i.pinimg.com/originals/10/82/c5/1082c5228fb6e62ca1332920d867b5c7.gif" 
+       alt="Luffy Yo GIF" 
+       width="150" 
+       style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.5); animation: float 3s ease-in-out infinite;" />
 </p>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=QA+Tester;Frontend+Developer;" />
