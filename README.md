@@ -1,19 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sunil Paudyal</h1>
+<h1 align="center">👋 Hi, I'm Sunil Paudyal</h1>
 
-<p align="center" style="background-color:#1e1e2f; display:inline-block; padding:20px; border-radius:20px;">
-  <img src="https://i.pinimg.com/originals/10/82/c5/1082c5228fb6e62ca1332920d867b5c7.gif" 
-       alt="Luffy Yo GIF" 
-       width="150" 
-       style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.5); animation: float 3s ease-in-out infinite;" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" 
+       alt="Luffy Gear 5 GIF" 
+       width="120" />
 </p>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-15px); }
-  100% { transform: translateY(0px); }
-}
-</style>
 
 
 <p align="center">
