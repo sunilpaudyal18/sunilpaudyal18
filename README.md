@@ -50,33 +50,32 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" title="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" height="48" alt="Postman" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="48" alt="Cypress" title="Cypress"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilpaudyal18&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilpaudyal18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=sunilpaudyal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilpaudyal18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunilpaudyal18&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sunilpaudyal18&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilpaudyal18&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilpaudyal18&theme=onedark&no-frame=true&margin-w=15" />
 </p>
+
 
 ---
 
@@ -86,8 +85,6 @@
 - 🔹 **Medical App UI** – React frontend
 - 🔹 **WWE Website** – React + Tailwind CSS 
 - 🔹 **Rotaract Club Website** – Club web project  
-
-📌 *Pin these repositories to highlight them on your profile*
 
 ---
 
